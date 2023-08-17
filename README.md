@@ -1,5 +1,6 @@
 # Titanic Survival Prediction
-![RMS Titanic](https://upload.wikimedia.org/wikipedia/commons/6/6e/RMS_Titanic_3.jpg)
+![Uploading RMS_Titanic_3.jpg…]()
+
 ## Introduction
 This repository contains a machine learning project that focuses on predicting the survival status of passengers aboard the Titanic using various data analysis and machine learning techniques. The dataset used for this project is sourced from the Kaggle competition "Titanic: Machine Learning from Disaster."
 
